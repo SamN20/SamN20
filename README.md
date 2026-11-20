@@ -2,7 +2,7 @@
 
 Computer Science student at the University of Guelph. I build web apps, developer tools, and more.
 
-I like owning the whole stack, from the UI to the infrastructure running it. A lot of what I build starts as something I want to use myself.
+I work on everything from frontend development to backend systems and infrastructure. Most of my projects start with an idea or something I want to build for myself.
 
 I also run [byNolo](https://github.com/byNolo), where I'm building independent software projects.
 
